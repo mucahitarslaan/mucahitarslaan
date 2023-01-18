@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mücahit</h1>
 <h3 align="center">I'm Mechatronics Engineer trying to be Software Developer</h3>
-<h3 align="left">e-mail : mucahitarslaan@gmail.com</h3>
+<h4 align="left">mucahitarslaan@gmail.com</h4>
 <p></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
